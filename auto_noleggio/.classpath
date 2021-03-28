@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/terzo/model_driven/jdbc-example-master/Lib"/>
+	<classpathentry kind="lib" path="C:/Users/aless/eclipse-workspace/auto_noleggio/sqlite-jdbc-3.30.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aless/eclipse-workspace/auto_noleggio/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aless/eclipse-workspace/auto_noleggio/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aless/eclipse-workspace/auto_noleggio/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aless/eclipse-workspace/auto_noleggio/miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/aless/Downloads/openjml/openjml.jar"/>
+	<classpathentry kind="var" path="OPENJML_RUNTIME_LIBRARY"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
